@@ -5,6 +5,7 @@
       "use": "sig",
       "alg": "RS384",
       "kid": "EB783E6F0C910ECD16C846C621280B80682B5D13",
+      "aud": "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/token",
       "n": "gDXb36y5lUL8lv6cHSCPbK4l0fgZ3Rb_fMaUdkEaIDcYtqczss0d45WThBOMfapYiE1-2Oc1IP1sqf_uYljc_BUXVLqk9-MxudytuGspQ7FiOx9V5MPt_xvydfp0okdefzsMOnU6pUSXON-n_QhBCpXLmCi9l6OkDoRdAb6pz-gvmaXXFvqeA29RBnWfyIt460ggn1be7gn2AzjIluZLlunzESIJXuPNliJO9qPCsVZ46apgxJ873xLltg94rSOCdLhHKLJnSK-SXmWYV_y8qVXMQ-o5Sq0iLz-1PkIu9sKWoLVoshUffoNTDGM553nhQNhOQGNeTVHkjXk2ihs9Kw",
       "e": "AQAB",
       "x5c": [
